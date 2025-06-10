@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eddyw\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2D Platformer\\2D Platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|c:\\users\\eddyw\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2d platformer\\2d platformer\\assets\\scripts\\signalrchatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\signalrchatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignalRChatManager.cs",
+              "DocumentMoniker": "C:\\Users\\eddyw\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2D Platformer\\2D Platformer\\Assets\\Scripts\\SignalRChatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SignalRChatManager.cs",
+              "ToolTip": "C:\\Users\\eddyw\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2D Platformer\\2D Platformer\\Assets\\Scripts\\SignalRChatManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SignalRChatManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:42:15.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

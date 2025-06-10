@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: e81b96735c4b9064b91eb5378c1557e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1095693698055865934
+    second: HeroTileset_0
+  - first:
+      213: -4699257326353231286
+    second: HeroTileset_1
+  - first:
+      213: 8334798243595152795
+    second: HeroTileset_2
+  - first:
+      213: 1472237541381785850
+    second: HeroTileset_3
+  - first:
+      213: -2175448126546430569
+    second: HeroTileset_4
+  - first:
+      213: -9126462241159867907
+    second: HeroTileset_5
+  - first:
+      213: 202675192752431593
+    second: HeroTileset_6
+  - first:
+      213: 2374234907915241273
+    second: HeroTileset_7
+  - first:
+      213: -3355255157363579201
+    second: HeroTileset_8
+  - first:
+      213: 1768124120437715760
+    second: HeroTileset_9
+  - first:
+      213: 995978922438711720
+    second: HeroTileset_10
+  - first:
+      213: -3229210715089448525
+    second: HeroTileset_11
+  - first:
+      213: -3804159569837856582
+    second: HeroTileset_12
+  - first:
+      213: -6926025010898803510
+    second: HeroTileset_13
+  - first:
+      213: -5720034823489242520
+    second: HeroTileset_14
+  - first:
+      213: -8611232641565683329
+    second: HeroTileset_15
+  - first:
+      213: 994316344588863251
+    second: HeroTileset_16
+  - first:
+      213: 2218299335343267467
+    second: HeroTileset_17
+  - first:
+      213: 53343712347815674
+    second: HeroTileset_18
+  - first:
+      213: 4686222926938414988
+    second: HeroTileset_19
+  - first:
+      213: -8671213098412106834
+    second: HeroTileset_20
+  - first:
+      213: -3558986209792197982
+    second: HeroTileset_21
+  - first:
+      213: -6522552029031273233
+    second: HeroTileset_22
+  - first:
+      213: -1538825911190179587
+    second: HeroTileset_23
+  - first:
+      213: 6113036488663673925
+    second: HeroTileset_24
+  - first:
+      213: 5574063349283537177
+    second: HeroTileset_25
+  - first:
+      213: -4168781144854165826
+    second: HeroTileset_26
+  - first:
+      213: 2673095740546381627
+    second: HeroTileset_27
+  - first:
+      213: 9036282842390995649
+    second: HeroTileset_28
+  - first:
+      213: 633975963325720510
+    second: HeroTileset_29
+  - first:
+      213: -3608899770106251699
+    second: HeroTileset_30
+  - first:
+      213: -8396301267987774350
+    second: HeroTileset_31
+  - first:
+      213: 4545420197399917149
+    second: HeroTileset_32
+  - first:
+      213: 5039357076740870631
+    second: HeroTileset_33
+  - first:
+      213: -1239391581169564609
+    second: HeroTileset_34
+  - first:
+      213: -8540414362545866777
+    second: HeroTileset_35
+  - first:
+      213: -6656459508827636914
+    second: HeroTileset_36
+  - first:
+      213: -7179552944053883932
+    second: HeroTileset_37
+  - first:
+      213: -4873329560353443433
+    second: HeroTileset_38
+  - first:
+      213: -120418349659967324
+    second: HeroTileset_39
+  - first:
+      213: 6322115614811172307
+    second: HeroTileset_40
+  - first:
+      213: 8617720085736216486
+    second: HeroTileset_41
+  - first:
+      213: 4324539747010996977
+    second: HeroTileset_42
+  - first:
+      213: -4778640946116701907
+    second: HeroTileset_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroTileset_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 245
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9feb803605bc0f0800000000000000
+      internalID: -1095693698055865934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 245
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4250920c52e8ceb0800000000000000
+      internalID: -4699257326353231286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 245
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9de908c7d62ba370800000000000000
+      internalID: 8334798243595152795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 245
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af84e0f5e307e6410800000000000000
+      internalID: 1472237541381785850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 245
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79539e574714fc1e0800000000000000
+      internalID: -2175448126546430569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 245
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df196ab12fa485180800000000000000
+      internalID: -9126462241159867907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 205
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1eac4930c00d200800000000000000
+      internalID: 202675192752431593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 205
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937ce9bc11af2f020800000000000000
+      internalID: 2374234907915241273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 205
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6eb86163dbf61d0800000000000000
+      internalID: -3355255157363579201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 205
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0337d750583a98810800000000000000
+      internalID: 1768124120437715760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 205
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a95cb39d8d62dd00800000000000000
+      internalID: 995978922438711720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 205
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b15536b6f98f23d0800000000000000
+      internalID: -3229210715089448525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 205
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab869eac609e43bc0800000000000000
+      internalID: -3804159569837856582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 205
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4e7efb2f0d1ef90800000000000000
+      internalID: -6926025010898803510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 165
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a3f0352aa5e90b0800000000000000
+      internalID: -5720034823489242520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 165
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f719a396981ce7880800000000000000
+      internalID: -8611232641565683329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 165
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317859182758ccd00800000000000000
+      internalID: 994316344588863251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 165
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ede901e7bf8ce10800000000000000
+      internalID: 2218299335343267467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 164
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afefd71e2d38db000800000000000000
+      internalID: 53343712347815674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 164
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f94726ceec80140800000000000000
+      internalID: 4686222926938414988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_20
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 164
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9e6901a9a9a780800000000000000
+      internalID: -8671213098412106834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 165
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa72d406e0fb9ec0800000000000000
+      internalID: -3558986209792197982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 125
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec6690dc7d3b75a0800000000000000
+      internalID: -6522552029031273233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 125
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b750acfdf4aae0800000000000000
+      internalID: -1538825911190179587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 125
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cacc55c4ed5d450800000000000000
+      internalID: 6113036488663673925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 125
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911c191651d0b5d40800000000000000
+      internalID: 5574063349283537177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 125
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb60f9ac2a38526c0800000000000000
+      internalID: -4168781144854165826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 125
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3770e1d96eb81520800000000000000
+      internalID: 2673095740546381627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_28
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 125
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c22cae6e53576d70800000000000000
+      internalID: 9036282842390995649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 125
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb76a2a97c55cc800800000000000000
+      internalID: 633975963325720510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 85
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46f3d4a7cc9aedc0800000000000000
+      internalID: -3608899770106251699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 85
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744d667b785a7b80800000000000000
+      internalID: -8396301267987774350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 45
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5278ec3693941f30800000000000000
+      internalID: 4545420197399917149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 45
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e19d77cf846fe540800000000000000
+      internalID: 5039357076740870631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 45
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3447ca6cebcccee0800000000000000
+      internalID: -1239391581169564609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 45
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e73fc5e26a5a7980800000000000000
+      internalID: -8540414362545866777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bbe8a18518f93a0800000000000000
+      internalID: -6656459508827636914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebee83e2aa1d5c90800000000000000
+      internalID: -7179552944053883932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 5
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791f8b9b5947e5cb0800000000000000
+      internalID: -4873329560353443433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 5
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a034142620345ef0800000000000000
+      internalID: -120418349659967324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 5
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd25c9d7aaacb750800000000000000
+      internalID: 6322115614811172307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_41
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 5
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a75e0462ca489770800000000000000
+      internalID: 8617720085736216486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_42
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae5adccf9d30c30800000000000000
+      internalID: 4324539747010996977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroTileset_43
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 5
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d399b06bdeadb0800000000000000
+      internalID: -4778640946116701907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroTileset_0: -1095693698055865934
+      HeroTileset_1: -4699257326353231286
+      HeroTileset_10: 995978922438711720
+      HeroTileset_11: -3229210715089448525
+      HeroTileset_12: -3804159569837856582
+      HeroTileset_13: -6926025010898803510
+      HeroTileset_14: -5720034823489242520
+      HeroTileset_15: -8611232641565683329
+      HeroTileset_16: 994316344588863251
+      HeroTileset_17: 2218299335343267467
+      HeroTileset_18: 53343712347815674
+      HeroTileset_19: 4686222926938414988
+      HeroTileset_2: 8334798243595152795
+      HeroTileset_20: -8671213098412106834
+      HeroTileset_21: -3558986209792197982
+      HeroTileset_22: -6522552029031273233
+      HeroTileset_23: -1538825911190179587
+      HeroTileset_24: 6113036488663673925
+      HeroTileset_25: 5574063349283537177
+      HeroTileset_26: -4168781144854165826
+      HeroTileset_27: 2673095740546381627
+      HeroTileset_28: 9036282842390995649
+      HeroTileset_29: 633975963325720510
+      HeroTileset_3: 1472237541381785850
+      HeroTileset_30: -3608899770106251699
+      HeroTileset_31: -8396301267987774350
+      HeroTileset_32: 4545420197399917149
+      HeroTileset_33: 5039357076740870631
+      HeroTileset_34: -1239391581169564609
+      HeroTileset_35: -8540414362545866777
+      HeroTileset_36: -6656459508827636914
+      HeroTileset_37: -7179552944053883932
+      HeroTileset_38: -4873329560353443433
+      HeroTileset_39: -120418349659967324
+      HeroTileset_4: -2175448126546430569
+      HeroTileset_40: 6322115614811172307
+      HeroTileset_41: 8617720085736216486
+      HeroTileset_42: 4324539747010996977
+      HeroTileset_43: -4778640946116701907
+      HeroTileset_5: -9126462241159867907
+      HeroTileset_6: 202675192752431593
+      HeroTileset_7: 2374234907915241273
+      HeroTileset_8: -3355255157363579201
+      HeroTileset_9: 1768124120437715760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
