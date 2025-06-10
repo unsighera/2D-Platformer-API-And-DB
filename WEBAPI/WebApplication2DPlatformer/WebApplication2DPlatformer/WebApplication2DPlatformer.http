@@ -1,0 +1,6 @@
+@WebApplication2DPlatformer_HostAddress = http://localhost:5158
+
+GET {{WebApplication2DPlatformer_HostAddress}}/
+Accept: application/json
+
+###

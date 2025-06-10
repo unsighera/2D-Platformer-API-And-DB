@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "WebApplication2DPlatformer.Controllers.UserServiceController",
+    "Method": "CompleteLevelByID",
+    "RelativePath": "api/UserService/completeLevel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebApplication2DPlatformer.Classes.CompleteLevelRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2DPlatformer.Controllers.UserServiceController",
+    "Method": "GetLeaderBoard",
+    "RelativePath": "api/UserService/getLeaderboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2DPlatformer.Controllers.UserServiceController",
+    "Method": "GetLeaderboardByLevelID",
+    "RelativePath": "api/UserService/getLeaderboard/{levelID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "levelID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2DPlatformer.Controllers.UserServiceController",
+    "Method": "GetUserByLoginAndPassword",
+    "RelativePath": "api/UserService/getUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebApplication2DPlatformer.Classes.UserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
